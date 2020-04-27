@@ -1,2 +1,2 @@
-# server
-My first python server
+# Server messanger
+Python practicing server messanger
